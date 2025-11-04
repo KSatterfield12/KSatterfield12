@@ -1,4 +1,4 @@
-## HI THERE 👋
+## Hi 👋
 
 I'm Kami:
 A full-stack developer with hands-on experience building software applications using Java, Spring Boot, React, HTML,
